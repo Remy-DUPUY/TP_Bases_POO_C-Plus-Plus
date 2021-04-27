@@ -21,6 +21,7 @@ Quelques informations utiles :
 
 Ce petit TP réalisé durant le semestre 3 du DUT Informatique présente certaines bases du langage C++, à travers une petite application SNCF (création de billets).
 Il est surtout utile pour se rafraîchir la mémoire, quand on ne développe pas en C++ pendant une longue période. 
+
 ---
 Comment lancer l'application ? 
 - Téléchargez le code de l'application au format .ZIP
