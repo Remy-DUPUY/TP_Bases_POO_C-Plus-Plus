@@ -19,7 +19,7 @@ sont certaines des spécificités du C++ qui le rendent finalement très puissan
 ---
 Quelques informations utiles : 
 
-Ce petit TP réalisé durant le semestre 3 du DUT Informatique présente certeines bases du langage C++, à travers une petite application SNCF (création de billets).
+Ce petit TP réalisé durant le semestre 3 du DUT Informatique présente certaines bases du langage C++, à travers une petite application SNCF (création de billets).
 
 ---
 Comment lancer l'application ? 
