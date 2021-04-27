@@ -25,7 +25,7 @@ Ce petit TP réalisé durant le semestre 3 du DUT Informatique présente certain
 Comment lancer l'application ? 
 - Téléchargez le code de l'application au format .ZIP
 - Importez directement le projet sur Netbeans ou sur tout autre IDE sur lequel pour pouvez exécuter un programme en C++. 
-- Lancez la classe "main.cpp". 
+- Lancez la classe "main.cpp" (Source Files). 
 
 Vous pourrez ensuite jouer avec l'application depuis votre IDE ! 
 ---
